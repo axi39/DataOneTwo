@@ -37,21 +37,21 @@ To use as cloud serviced application
 
 ##Sample Images
 -Load. Loads the CSV file and outputs a paginated view.
-![](images/home.png)
+![](images/home.PNG)
   
-![](images/load.png)
+![](images/load.PNG)
 
 -Explore.  Summary statistics and histograms of columns/features.  Note, only numeric data is supported by histograms.
-![](images/explore.png)
+![](images/explore.PNG)
 
 -Clean.  Utilizing common data cleansing techniques (Ex. impute, remove nulls, convert data types).
-![](images/clean.png)
+![](images/clean.PNG)
 
 -Predict.  Select features, target column, train/test split size.  Only supports tree regressor at this time.
-![](images/model.png)
+![](images/model.PNG)
 
 -Share.  Coming soon.  Intended for feedback and sharing outputs via email and/or exports.
-![](images/comingsoon.png)
+![](images/comingsoon.PNG)
 
 ## Dependencies
 
